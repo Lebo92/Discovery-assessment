@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+	 viewBox="0 0 28 32" style="enable-background:new 0 0 28 32;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#E5E5E5;}
+	.st0{fill:#084B8D;}
 </style>
-<path class="st0" d="M6.5,18.9l7.2-7.2L6.5,4.6l2.2-2.2l9.4,9.4l-9.4,9.4L6.5,18.9z"/>
+<title>vitality</title>
+<g>
+	<g>
+		<path class="st0" d="M16,11V7c0-1.1,0.9-2,2-2h2V0h-4c-3.3,0-6,2.7-6,6v5H6v5h4v16h6V16h4l2-5H16z"/>
+	</g>
+</g>
 </svg>
